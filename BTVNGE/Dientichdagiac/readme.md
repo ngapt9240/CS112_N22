@@ -1,5 +1,5 @@
 
-**Đề bài: Tìm diện tích đa giác** 
+# **Đề bài: Tìm diện tích đa giác** 
 <br>Cho một số nguyên N là số đỉnh của một đa giác (N < 10^6). Tiếp theo cho tọa độ Oxy của các đỉnh. Hãy 
 tính diện tích của đa giác đó.   
 <br>Thời gian: 1 giây
