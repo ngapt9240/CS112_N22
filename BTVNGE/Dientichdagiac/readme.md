@@ -8,7 +8,7 @@ tính diện tích của đa giác đó.
 <br>Dòng đầu tiên chứa số nguyên N (1 ≤ N ≤ 10^6) là số đỉnh của đa giác
 <br>N dòng sau đó là N cặp số nguyên biểu diễn tọa độ Oxy của các đỉnh
 <br>**Output:** 
-<br>Số nguyên S là diện tích của đa giác tạo bởi N đỉnh đã cho 
+<br>Số nguyên S là diện tích của đa giác tạo bởi N đỉnh đã cho    
 <br>**Ví dụ:** 
    <br>Input 
     <br>3 
