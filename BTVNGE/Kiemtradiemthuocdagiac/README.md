@@ -6,7 +6,7 @@ công ty hay không. Để làm điều này, bạn có thể sử dụng thuậ
 nằm trong hay ngoài một đa giác. Vùng đón hàng có thể được biểu diễn bằng một đa giác 
 với các đỉnh tương ứng với các điểm đánh dấu trên bản đồ. Bạn có thể sử dụng các thông 
 tin tọa độ để nhập đa giác và điểm cần kiểm tra vào chương trình. Sau đó, chương trình sẽ
-trả về kết quả "True" nếu điểm nằm trong vùng đón hàng, hoặc "False" nếu điểm nằm 
+trả về kết quả **"True"** nếu điểm nằm trong vùng đón hàng, hoặc **"False"** nếu điểm nằm 
 ngoài vùng đó. 
 <br>
 <br>Hãy giải quyết bài toán này trong giới hạn thời gian và không gian sau đây: 
