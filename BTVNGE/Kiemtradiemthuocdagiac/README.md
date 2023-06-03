@@ -32,5 +32,5 @@ ngoài vùng đó.
 <br>      True
 <br>    Input 
 <br>      2
-<br>    Output  
+<br>    Output
 <br>      Error
