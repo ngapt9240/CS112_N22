@@ -20,6 +20,7 @@ ngoài vùng đó.
 <br>**Output:**
 <br>- Nếu điểm nằm trong đa giác thì xuất ra kết quả True 
 <br>- Nếu điểm nằm ngoài đa giác thì xuất ra kết quả False
+<br>
 <br>**Ví dụ:** 
 <br>    Input 
 <br>      3
