@@ -22,13 +22,13 @@ ngoài vùng đó.
 <br>- Nếu điểm nằm ngoài đa giác thì xuất ra kết quả False
 <br>**Ví dụ:** 
 <br>    Input 
-          3
-          2 3 
-          5 0 
-          4 6
-          4 2 
+<br>      3
+<br>      2 3 
+<br>      5 0 
+<br>      4 6
+<br>      4 2 
 <br>    Output
-          True
+<br>      True
 <br>    Input 
 <br>      2
 <br>    Output  
