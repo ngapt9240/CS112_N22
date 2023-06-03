@@ -4,6 +4,7 @@
 tính diện tích của đa giác đó.   
 <br>Thời gian: 1 giây
 <br>Bộ nhớ: 50MB
+<br>
 <br>**Input:**
 <br>Dòng đầu tiên chứa số nguyên N (1 ≤ N ≤ 10^6) là số đỉnh của đa giác
 <br>N dòng sau đó là N cặp số nguyên biểu diễn tọa độ Oxy của các đỉnh
